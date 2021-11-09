@@ -1,7 +1,5 @@
 ## Тестовое задание.
 
-#### Стек: java 15, Servlets, postgresql, tomcat, Jsp/Js.
-
 А) Дана таблица из 7 цветов c названием «TSVETA» в виде:
 ### Поля таблицы:
     id NUMBER NOT NULL 
@@ -35,6 +33,8 @@ Javascript конструкцию.
 ![ScreenShot](images/first.PNG)
 ![ScreenShot](images/second.PNG)
 ![ScreenShot](images/third.PNG)
+
+#### Стек: java 15, Servlets, postgresql, tomcat, Jsp/Js.
 
 ## Контакты
 Если у вас остались вопросы, вы можете связаться со мной.
