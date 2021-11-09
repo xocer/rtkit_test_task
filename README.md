@@ -1,6 +1,6 @@
 ## Тестовое задание.
 
-### Выполнено на java 15, Servlets, postgresql, tomcat, Jsp/Js.
+#### Стек: java 15, Servlets, postgresql, tomcat, Jsp/Js.
 
 А) Дана таблица из 7 цветов c названием «TSVETA» в виде:
 ### Поля таблицы:
